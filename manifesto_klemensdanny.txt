@@ -1,0 +1,21 @@
+========================================
+  MY OPEN SOURCE MANIFESTO
+  Written on: 31 March 2026
+========================================
+
+I use Linux every single day without paying
+for it. Someone built it, and then gave it away.
+That's not normal -- that's a choice. A choice
+that says knowledge should belong to everyone.
+
+Freedom, to me, means Choice. And in software
+that means being able to look inside the tools
+I depend on -- not just use them blindly.
+
+Linus Torvalds just wanted a free OS for his PC.
+He shared it anyway. Now it runs the world.
+If I ever build Coding tool, I'll share it too.
+Because that's how I got everything I have.
+
+-- Klemens Danny (24BCE10176), 31 March 2026
+========================================
